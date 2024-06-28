@@ -7,6 +7,10 @@ This project is a simple game developed using the Bagel library, which is part o
 
 The game involves navigating a character through different levels, collecting coins, avoiding enemies, and reaching the end flag to complete the level. The player can interact with various objects in the game world, and each object has unique behaviors and characteristics.
 
+## Running the Game
+
+To run the project, ensure you have Java 17 or a lower version of the JDK installed. Execute the `main` method in the `ShadowMario.java` file to start the game.
+
 ## Build Instructions
 
 The Maven project should simply work with the command:
